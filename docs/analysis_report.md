@@ -302,5 +302,3 @@ jupyter notebook notebooks/
 ```
 
 ---
-
-**🤖 本レポートはClaude Codeの支援を受けて作成されました**
