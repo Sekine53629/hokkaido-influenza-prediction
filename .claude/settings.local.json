@@ -4,7 +4,19 @@
       "Bash(tree:*)",
       "Bash(git init:*)",
       "Bash(git config:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(gh repo create:*)",
+      "Bash(git push:*)",
+      "Bash(iconv:*)",
+      "Bash(for file in \"data/raw/weather\"/*.csv)",
+      "Bash(do echo \"=== $file ===\")",
+      "Bash(done)",
+      "Bash(pip install:*)",
+      "Bash(python -m pip install:*)",
+      "Bash(python:*)",
+      "Bash(git pull:*)",
+      "Bash(git stash:*)"
     ],
     "deny": [],
     "ask": []
