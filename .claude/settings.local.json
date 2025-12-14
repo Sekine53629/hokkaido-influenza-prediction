@@ -16,7 +16,9 @@
       "Bash(python -m pip install:*)",
       "Bash(python:*)",
       "Bash(git pull:*)",
-      "Bash(git stash:*)"
+      "Bash(git stash:*)",
+      "Bash(pandoc --version:*)",
+      "Bash(pandoc:*)"
     ],
     "deny": [],
     "ask": []
